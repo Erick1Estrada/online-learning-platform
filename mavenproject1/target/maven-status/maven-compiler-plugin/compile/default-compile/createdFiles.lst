@@ -1,0 +1,14 @@
+com\mycompany\mavenproject1\StudentMenuFrame.class
+com\mycompany\mavenproject1\RegisterFrame.class
+com\mycompany\mavenproject1\model\Tarea.class
+com\mycompany\mavenproject1\MainFrame.class
+com\mycompany\mavenproject1\model\Curso.class
+com\mycompany\mavenproject1\service\UsuarioService.class
+com\mycompany\mavenproject1\LoginFrame.class
+com\mycompany\mavenproject1\model\Estudiante.class
+com\mycompany\mavenproject1\TeacherMenuFrame.class
+com\mycompany\mavenproject1\model\Evaluacion.class
+com\mycompany\mavenproject1\model\Usuario.class
+com\mycompany\mavenproject1\model\Profesor.class
+com\mycompany\mavenproject1\Mavenproject1.class
+com\mycompany\mavenproject1\service\CursoService.class
